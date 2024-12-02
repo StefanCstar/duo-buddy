@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/duo-buddy/static/css/main.cbf1fda0.css",
+    "main.js": "/duo-buddy/static/js/main.9971e368.js",
+    "static/js/453.6aa42d83.chunk.js": "/duo-buddy/static/js/453.6aa42d83.chunk.js",
+    "index.html": "/duo-buddy/index.html",
+    "main.cbf1fda0.css.map": "/duo-buddy/static/css/main.cbf1fda0.css.map",
+    "main.9971e368.js.map": "/duo-buddy/static/js/main.9971e368.js.map",
+    "453.6aa42d83.chunk.js.map": "/duo-buddy/static/js/453.6aa42d83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbf1fda0.css",
+    "static/js/main.9971e368.js"
+  ]
+}
